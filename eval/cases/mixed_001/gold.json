@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "en": "Acidity with burning after meals for a week, worse at night. Pan-D every morning on an empty stomach for 14 days and Digene syrup when burning occurs. Avoid spicy and oily food, eat dinner two hours before bed, follow up in two weeks.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Pan-D",
+      "generic": "pantoprazole + domperidone",
+      "form": "capsule",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": 14,
+      "source_segments": [4]
+    },
+    {
+      "name": "Digene",
+      "generic": "antacid (magnesium hydroxide + aluminium hydroxide + simethicone)",
+      "form": "syrup",
+      "dose": "10 ml",
+      "frequency_code": "SOS",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [5]
+    }
+  ],
+  "tests": [],
+  "follow_up": {"in_days": 14, "reason": "acidity review", "source_segments": [7]},
+  "instructions": [
+    {"text": "Avoid spicy and oily food", "source_segments": [6]},
+    {"text": "Eat dinner two hours before sleeping", "source_segments": [6]}
+  ],
+  "open_questions": []
+}

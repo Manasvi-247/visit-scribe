@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "en": "Burning while passing urine for two days with mild fever. Norflox 400 twice a day after food for five days and Citralka syrup three times a day. Urine routine and culture tests, three to four litres of water a day, return with reports in three days.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Norflox 400",
+      "generic": "norfloxacin",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "after",
+      "duration_days": 5,
+      "source_segments": [3]
+    },
+    {
+      "name": "Citralka",
+      "generic": "disodium hydrogen citrate",
+      "form": "syrup",
+      "dose": "2 teaspoons",
+      "frequency_code": "1-1-1",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [4]
+    }
+  ],
+  "tests": [
+    {"name": "Urine routine", "when": null, "source_segments": [5]},
+    {"name": "Urine culture", "when": null, "source_segments": [5]}
+  ],
+  "follow_up": {"in_days": 3, "reason": "review with urine reports", "source_segments": [7]},
+  "instructions": [
+    {"text": "Drink three to four litres of water a day", "source_segments": [6]}
+  ],
+  "open_questions": ["Citralka: how many days?"]
+}

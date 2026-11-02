@@ -1,0 +1,39 @@
+{
+  "summary": {
+    "en": "HbA1c has risen from 7.6 to 8.2. Continue Glycomet GP 1 twice a day and add Januvia 100 mg once a day. No sweets, no rice at night, walk 30 minutes daily. Repeat HbA1c and fasting sugar and return in three months.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Glycomet GP 1",
+      "generic": "metformin + glimepiride",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "before",
+      "duration_days": null,
+      "source_segments": [2]
+    },
+    {
+      "name": "Januvia",
+      "generic": "sitagliptin",
+      "form": "tablet",
+      "dose": "100 mg",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [3]
+    }
+  ],
+  "tests": [
+    {"name": "HbA1c", "when": "after three months", "source_segments": [5]},
+    {"name": "Fasting blood sugar", "when": "after three months", "source_segments": [5]}
+  ],
+  "follow_up": {"in_days": 90, "reason": "diabetes review with reports", "source_segments": [6]},
+  "instructions": [
+    {"text": "Avoid sweets and rice at night", "source_segments": [4]},
+    {"text": "Walk 30 minutes every day", "source_segments": [4]}
+  ],
+  "open_questions": []
+}

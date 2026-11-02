@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+
+# Large or private files never go in git
+models/
+data/raw/
+eval/results/
+eval/cases/*/audio.*

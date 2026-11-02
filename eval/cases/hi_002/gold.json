@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "en": "Child (15 kg) with fever and cough for two days. Calpol syrup while fever lasts and Ambrodil S syrup for cough. CBC if fever does not settle in three days, review after five days.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Calpol",
+      "generic": "paracetamol",
+      "form": "syrup",
+      "dose": "5 ml",
+      "frequency_code": "1-1-1",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [3]
+    },
+    {
+      "name": "Ambrodil S",
+      "generic": "ambroxol + salbutamol",
+      "form": "syrup",
+      "dose": "2.5 ml",
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": 5,
+      "source_segments": [4]
+    }
+  ],
+  "tests": [
+    {"name": "CBC", "when": "if fever does not settle in three days", "source_segments": [5]}
+  ],
+  "follow_up": {"in_days": 5, "reason": "fever and cough review", "source_segments": [6]},
+  "instructions": [],
+  "open_questions": ["Calpol is to be given while the fever lasts. Stop once fever is gone?"]
+}

@@ -1,0 +1,37 @@
+{
+  "summary": {
+    "en": "Fever for three days with body ache and a mild cough. Dolo 650 for fever and Ascoril LS syrup for cough. Fluids and rest, CBC if fever does not come down in two days, review after five days.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Dolo 650",
+      "generic": "paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-1-1",
+      "food": "after",
+      "duration_days": 3,
+      "source_segments": [4]
+    },
+    {
+      "name": "Ascoril LS",
+      "generic": "ambroxol + levosalbutamol + guaifenesin",
+      "form": "syrup",
+      "dose": "10 ml",
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": 5,
+      "source_segments": [5]
+    }
+  ],
+  "tests": [
+    {"name": "CBC", "when": "if fever does not come down in two days", "source_segments": [6]}
+  ],
+  "follow_up": {"in_days": 5, "reason": "fever review", "source_segments": [7]},
+  "instructions": [
+    {"text": "Drink plenty of fluids and rest", "source_segments": [6]}
+  ],
+  "open_questions": []
+}

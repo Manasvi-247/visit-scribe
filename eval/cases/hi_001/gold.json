@@ -1,0 +1,28 @@
+{
+  "summary": {
+    "en": "Heaviness in the head and dizziness. BP 150/95, slightly high. Telma 40 once every morning after breakfast. Less salt, walk half an hour daily, log BP at home for a week, return in two weeks.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Blood pressure 150/95, slightly high", "source_segments": [2]}
+  ],
+  "medications": [
+    {
+      "name": "Telma 40",
+      "generic": "telmisartan",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [3]
+    }
+  ],
+  "tests": [],
+  "follow_up": {"in_days": 14, "reason": "BP review", "source_segments": [6]},
+  "instructions": [
+    {"text": "Eat less salt and walk for half an hour every day", "source_segments": [4]},
+    {"text": "Measure BP at home for a week and write it down", "source_segments": [5]}
+  ],
+  "open_questions": []
+}

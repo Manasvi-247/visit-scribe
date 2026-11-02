@@ -1,0 +1,9 @@
+# Fever with mild cough
+D: Good morning, what seems to be the problem?
+P: I've had fever for three days, around 101, and my whole body aches.
+D: Any cough or cold?
+P: A mild cough, no trouble breathing.
+D: Okay. Take Dolo 650, one tablet three times a day after food, for three days.
+D: For the cough, Ascoril LS syrup, 10 ml twice a day for five days.
+D: Drink plenty of fluids and rest. If the fever doesn't come down in two days, get a CBC test done.
+D: Come back after five days.

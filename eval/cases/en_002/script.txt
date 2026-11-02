@@ -1,0 +1,8 @@
+# Diabetes follow-up
+D: Your HbA1c report shows 8.2. Last time it was 7.6.
+P: I have been missing my evening walk, doctor.
+D: Continue Glycomet GP 1, one tablet before breakfast and one before dinner.
+D: I am adding Januvia 100 mg, once a day after breakfast.
+D: Avoid sweets, and no rice at night. Walk for 30 minutes every day.
+D: Repeat HbA1c and fasting sugar after three months.
+D: See me again in three months with the reports.
