@@ -1,0 +1,57 @@
+category,hinglish,hindi,english
+symptom,bukhar,बुखार,fever
+symptom,khansi,खांसी,cough
+symptom,zukaam,ज़ुकाम,cold
+symptom,sir dard,सिर दर्द,headache
+symptom,pet dard,पेट दर्द,stomach ache
+symptom,ulti,उल्टी,vomiting
+symptom,dast,दस्त,loose motions
+symptom,jalan,जलन,burning
+symptom,kamzori,कमज़ोरी,weakness
+symptom,chakkar,चक्कर,dizziness
+symptom,saans phoolna,साँस फूलना,breathlessness
+symptom,sujan,सूजन,swelling
+symptom,khujli,खुजली,itching
+symptom,neend nahi aati,नींद नहीं आती,cannot sleep
+symptom,gale mein kharash,गले में खराश,sore throat
+symptom,badan dard,बदन दर्द,body ache
+timing,subah,सुबह,morning (1-0-0)
+timing,dopahar,दोपहर,afternoon (0-1-0)
+timing,raat ko sote time,रात को सोते समय,at bedtime (0-0-1)
+timing,subah-shaam,सुबह-शाम,morning and evening (1-0-1)
+timing,din mein do baar,दिन में दो बार,twice a day (1-0-1)
+timing,din mein teen baar,दिन में तीन बार,three times a day (1-1-1)
+timing,roz,रोज़,daily
+timing,ek din chhod ke,एक दिन छोड़ के,alternate days
+timing,hafte mein ek baar,हफ़्ते में एक बार,once a week
+timing,jab zarurat ho,जब ज़रूरत हो,when needed (SOS)
+food,khali pet,खाली पेट,empty stomach (before food)
+food,khane se pehle,खाने से पहले,before food
+food,khane ke baad,खाने के बाद,after food
+food,khane ke saath,खाने के साथ,with food
+duration,paanch din ka course,पाँच दिन का कोर्स,five-day course
+duration,ek hafte tak,एक हफ़्ते तक,for one week
+duration,course poora karna,कोर्स पूरा करना,complete the course
+duration,beech mein band mat karna,बीच में बंद मत करना,do not stop midway
+form,goli,गोली,tablet
+form,syrup,सिरप,syrup
+form,chammach,चम्मच,teaspoon (5 ml)
+form,dhakkan,ढक्कन,capful
+form,malhum,मलहम,ointment
+form,drops,ड्रॉप्स,drops
+form,inhaler,इनहेलर,inhaler
+form,sachet,सैशे,sachet
+form,injection,इंजेक्शन,injection
+dose,aadhi goli,आधी गोली,half tablet
+dose,ek goli,एक गोली,one tablet
+dose,do chammach,दो चम्मच,two teaspoons
+advice,parhez,परहेज़,dietary restriction
+advice,tel-masala kam,तेल-मसाला कम,less oil and spice
+advice,paani zyada piyo,पानी ज़्यादा पियो,drink more water
+advice,aaram karo,आराम करो,rest
+advice,namak kam,नमक कम,less salt
+follow_up,dobara dikhana,दोबारा दिखाना,come back for review
+follow_up,report leke aana,रिपोर्ट लेके आना,bring the reports
+follow_up,agar aaram na mile to,अगर आराम न मिले तो,if there is no relief
+test,khoon ki jaanch,खून की जाँच,blood test
+test,peshab ki jaanch,पेशाब की जाँच,urine test

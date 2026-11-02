@@ -3,7 +3,7 @@
 Record a doctor's visit and turn it into a plain summary plus a medicine and follow-up schedule.
 Hindi and English (including Hinglish) first. Open-source models only, zero cost.
 
-Plan: https://claude.ai/artifact/8HhFU8GNHKrwGQ45c75LUZ
+How the pipeline works and how far it is built: [docs/pipeline.md](docs/pipeline.md).
 
 ## Commands
 
