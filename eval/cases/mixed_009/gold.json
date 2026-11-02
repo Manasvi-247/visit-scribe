@@ -1,0 +1,54 @@
+{
+  "summary": {
+    "en": "TSH is 9.2, thyroid underactive, with weakness and weight gain. Thyronorm 50 every morning on an empty stomach, half an hour before breakfast, with plain water for six weeks. Repeat TSH and return with the report in six weeks.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Underactive thyroid (TSH 9.2)",
+      "source_segments": [
+        0
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Thyronorm 50",
+      "generic": "levothyroxine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": 42,
+      "source_segments": [
+        2,
+        3
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "TSH",
+      "when": "after six weeks",
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 42,
+    "reason": "review with TSH report",
+    "source_segments": [
+      6
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Take Thyronorm with plain water only on an empty stomach, not with tea or breakfast",
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "open_questions": []
+}

@@ -1,0 +1,74 @@
+{
+  "summary": {
+    "en": "Burning in the chest after meals and occasional nausea for ten days. Pantocid every morning before breakfast for two weeks, Gelusil after meals when there is burning, Ondem 4 only for vomiting. Limit tea to two cups a day, less oil and spice, do not skip lunch, return in two weeks.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Pantocid",
+      "generic": "pantoprazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": 14,
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "Gelusil",
+      "generic": "antacid (magnesium hydroxide + aluminium hydroxide + simethicone)",
+      "form": "syrup",
+      "dose": "2 teaspoons",
+      "frequency_code": "SOS",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Ondem 4",
+      "generic": "ondansetron",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 14,
+    "reason": "acidity review",
+    "source_segments": [
+      7
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Limit tea to two cups a day",
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "text": "Reduce oil and spices",
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "text": "Do not skip lunch",
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "open_questions": []
+}

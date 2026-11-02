@@ -1,0 +1,8 @@
+# Dust allergy with sneezing
+# noise: fan
+P: Doctor, I keep sneezing every morning, and my nose keeps running.
+D: Since how long?
+P: About a week. It gets worse when I dust the house.
+D: This is an allergy. Take Allegra 120, one tablet once a day at night, for ten days.
+D: Wear a mask while dusting, and do steam inhalation twice a day.
+D: Come back after ten days.

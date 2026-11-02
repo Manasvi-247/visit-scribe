@@ -1,0 +1,9 @@
+# Conjunctivitis
+# noise: tv
+D: Come, sit. Which eye is troubling you?
+P: Both eyes are red and sticky for two days, doctor. My son had the same last week.
+D: It is conjunctivitis, it spreads easily at home.
+D: Put Moxicip eye drops, one drop in each eye four times a day, for five days.
+D: Wash your hands often, don't share towels, and don't touch your eyes.
+D: Use dark glasses when you go out.
+D: Show me again after five days.

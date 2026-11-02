@@ -1,0 +1,10 @@
+# Viral fever
+# noise: quiet
+D: Good evening, tell me what happened.
+P: Doctor, I have fever since last night, around 100, and a headache.
+D: Any vomiting or loose motions?
+P: No, just feeling very weak.
+D: It looks like a viral fever. Take Dolo 650, one tablet three times a day after food, for three days.
+D: Also Limcee, one tablet once a day, for five days.
+D: Drink lots of water and coconut water, and take rest at home.
+D: Come back after three days.

@@ -15,6 +15,7 @@ class MedicineIndex:
     """Finds brand names in text, longest brand first so "Glycomet GP 1" beats "Glycomet"."""
 
     def __init__(self, medicines: list[Medicine]):
+        self.medicines = medicines
         self._patterns = sorted(
             ((medicine, _brand_pattern(medicine.brand)) for medicine in medicines),
             key=lambda pair: -len(pair[0].brand),

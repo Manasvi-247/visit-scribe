@@ -1,0 +1,56 @@
+{
+  "summary": {
+    "en": "Burning in the chest after meals with sour burps. Pan 40 before breakfast for fourteen days and Gelusil syrup when there is burning. Two cups of tea a day at most, dinner by 8:30, follow up in two weeks.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Pan 40",
+      "generic": "pantoprazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": 14,
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "Gelusil",
+      "generic": "antacid (magnesium hydroxide + aluminium hydroxide + simethicone)",
+      "form": "syrup",
+      "dose": "2 teaspoons",
+      "frequency_code": "SOS",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 14,
+    "reason": "acidity review",
+    "source_segments": [
+      6
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Limit tea to two cups a day",
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "text": "Finish dinner by 8:30",
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "open_questions": []
+}

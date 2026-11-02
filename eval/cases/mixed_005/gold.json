@@ -1,0 +1,89 @@
+{
+  "summary": {
+    "en": "Breathlessness with cough and wheezing at night, disturbing sleep. Asthalin inhaler when breathless, Montair LC at bedtime for a month, and a Wysolone 10 course of two tablets for three days then one tablet for three days. Stop Ascoril LS, return in two weeks for a PFT.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Asthalin",
+      "generic": "salbutamol",
+      "form": "inhaler",
+      "dose": "2 puffs",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        2
+      ]
+    },
+    {
+      "name": "Montair LC",
+      "generic": "montelukast + levocetirizine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 30,
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "name": "Wysolone 10",
+      "generic": "prednisolone",
+      "form": "tablet",
+      "dose": "2 tablets",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 3,
+      "source_segments": [
+        6,
+        8
+      ]
+    },
+    {
+      "name": "Wysolone 10",
+      "generic": "prednisolone",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 3,
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "Pulmonary function test",
+      "when": "at follow-up in two weeks",
+      "source_segments": [
+        10
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 14,
+    "reason": "asthma review and PFT",
+    "source_segments": [
+      10
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Do not stop Montair LC midway",
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "text": "Stop Ascoril LS",
+      "source_segments": [
+        9
+      ]
+    }
+  ],
+  "open_questions": []
+}

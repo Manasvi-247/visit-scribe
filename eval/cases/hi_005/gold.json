@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "en": "High fever for three days with pain behind the eyes and body ache; dengue suspected. Stop Combiflam, Dengue NS1 and CBC today. Dolo 650 three times a day while fever lasts and Electral through the day; review tomorrow with reports, come at once if abdominal pain or vomiting.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Suspected dengue", "source_segments": [2, 3]}
+  ],
+  "medications": [
+    {
+      "name": "Dolo 650",
+      "generic": "paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-1-1",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [4, 5]
+    },
+    {
+      "name": "Electral",
+      "generic": "oral rehydration salts",
+      "form": "powder",
+      "dose": "1 sachet in 1 litre of water",
+      "frequency_code": null,
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [7]
+    }
+  ],
+  "tests": [
+    {"name": "Dengue NS1", "when": "today", "source_segments": [3]},
+    {"name": "CBC", "when": "today", "source_segments": [3]}
+  ],
+  "follow_up": {"in_days": 1, "reason": "review with reports", "source_segments": [9]},
+  "instructions": [
+    {"text": "Stop Combiflam", "source_segments": [2]},
+    {"text": "Do not take any other painkiller on your own", "source_segments": [8]},
+    {"text": "Come immediately if there is abdominal pain or vomiting", "source_segments": [9]}
+  ],
+  "open_questions": ["Dolo 650 is to be taken while the fever lasts. Stop once fever is gone?", "Electral is to be sipped through the day. For how many days?"]
+}

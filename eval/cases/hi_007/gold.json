@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "en": "Morning sneezing, runny nose and now cough, worse with dust; allergy. Montair LC at bedtime for ten days, Ascoril LS syrup for five days and Limcee for fifteen days. Mask while cleaning, steam at night, return if not better in ten days.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Allergy", "source_segments": [3]}
+  ],
+  "medications": [
+    {
+      "name": "Montair LC",
+      "generic": "montelukast + levocetirizine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 10,
+      "source_segments": [3]
+    },
+    {
+      "name": "Ascoril LS",
+      "generic": "ambroxol + levosalbutamol + guaifenesin",
+      "form": "syrup",
+      "dose": "2 teaspoons",
+      "frequency_code": "1-1-1",
+      "food": "any",
+      "duration_days": 5,
+      "source_segments": [4]
+    },
+    {
+      "name": "Limcee",
+      "generic": "vitamin C",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 15,
+      "source_segments": [5]
+    }
+  ],
+  "tests": [],
+  "follow_up": {"in_days": 10, "reason": "if not better", "source_segments": [7]},
+  "instructions": [
+    {"text": "Wear a mask while cleaning and take steam at night", "source_segments": [6]}
+  ],
+  "open_questions": []
+}

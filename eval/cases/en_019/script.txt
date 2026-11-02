@@ -1,0 +1,11 @@
+# Iron deficiency anaemia
+# noise: fan
+D: Your haemoglobin is eight point five. That is low, you have iron deficiency anaemia.
+P: I also have heavy periods, doctor, and I get tired climbing stairs.
+D: Start Orofer XT, one tablet daily after lunch. No, let me change that, one tablet on alternate days, after lunch, for three months.
+P: Can I take it with tea?
+D: No, keep a gap of one hour from tea or milk. Take it with lemon water if you can.
+D: Also Becosules, one capsule after breakfast, for one month.
+D: For period pain, Meftal Spas, one tablet when needed, maximum three in a day.
+D: Get a CBC, ultrasound of the pelvis, and TSH done.
+D: See a gynaecologist for the heavy periods, and come back to me after one month with the CBC.

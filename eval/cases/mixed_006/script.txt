@@ -1,0 +1,8 @@
+# Allergic cold
+# noise: quiet
+P: Doctor, ek hafte se zukaam hai, I'm sneezing a lot, subah uthte hi naak bahne lagti hai.
+D: Any fever or throat pain?
+P: No fever, bas sneezing aur aankhon mein khujli.
+D: Ye allergy wala zukaam hai, allergic rhinitis. Allegra 120, one tablet roz subah, for ten days.
+D: Dust se bacho, and wear a mask when you go out.
+D: Agar aaram na mile, come back after ten days.

@@ -1,0 +1,90 @@
+{
+  "summary": {
+    "en": "Fever for four days with pain behind the eyes, weakness and dizziness, dengue suspected. Stop Combiflam; Dolo 650 when there is fever, Electral twice a day and Limcee every morning for five days. CBC and Dengue NS1 today, go to emergency for warning signs, return tomorrow with reports.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Suspected dengue",
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Dolo 650",
+      "generic": "paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Electral",
+      "generic": "oral rehydration salts",
+      "form": "powder",
+      "dose": "1 sachet in 1 litre water",
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": 5,
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "name": "Limcee",
+      "generic": "vitamin C",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 5,
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "CBC",
+      "when": "today",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "name": "Dengue NS1",
+      "when": "today",
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 1,
+    "reason": "review with reports",
+    "source_segments": [
+      9
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Stop Combiflam",
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "text": "Go to emergency immediately if abdominal pain, vomiting or any bleeding",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": []
+}

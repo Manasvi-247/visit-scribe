@@ -1,0 +1,9 @@
+# Vitamin D deficiency
+# noise: tv
+D: Your vitamin D report shows 12, that is quite low.
+P: Is that why my legs ache all the time?
+D: Yes, low vitamin D causes body aches and tiredness.
+D: Take Uprise D3 60K, one capsule once a week with milk, for eight weeks.
+D: Also Shelcal 500, one tablet daily after dinner, for two months.
+D: Sit in the morning sun for twenty minutes daily.
+D: Repeat the vitamin D test after two months, then see me.

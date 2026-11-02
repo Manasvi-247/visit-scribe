@@ -1,0 +1,94 @@
+{
+  "summary": {
+    "en": "Loose motions eight to ten times since yesterday with vomiting and cramps. Stop Norflox; Metrogyl 400 three times a day after food for five days, Electral after each loose motion, Ondem 4 twice a day before food, Cyclopam for cramps. Eat something light, update in two days, come immediately if there is blood in stool.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Metrogyl 400",
+      "generic": "metronidazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-1-1",
+      "food": "after",
+      "duration_days": 5,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Electral",
+      "generic": "oral rehydration salts",
+      "form": "powder",
+      "dose": "1 glass",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "name": "Ondem 4",
+      "generic": "ondansetron",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "before",
+      "duration_days": null,
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "name": "Cyclopam",
+      "generic": "dicyclomine + paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 2,
+    "reason": "update on loose motions",
+    "source_segments": [
+      9
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Stop Norflox",
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "text": "Complete the Metrogyl 400 course",
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "text": "Eat something light like khichdi or curd rice before the medicine",
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "text": "Come immediately if there is blood in stool",
+      "source_segments": [
+        9
+      ]
+    }
+  ],
+  "open_questions": [
+    "Ondem 4: how many days?"
+  ]
+}

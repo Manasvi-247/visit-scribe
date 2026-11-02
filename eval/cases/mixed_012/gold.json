@@ -1,0 +1,46 @@
+{
+  "summary": {
+    "en": "Burning and frequent urination for three days, no fever. Ciplox 500 twice a day after food for five days, urine routine test today, at least three litres of water a day. Follow up in five days.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Ciplox 500",
+      "generic": "ciprofloxacin",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "after",
+      "duration_days": 5,
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "Urine routine",
+      "when": "today",
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 5,
+    "reason": "urine infection review",
+    "source_segments": [
+      6
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Drink at least three litres of water a day",
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "open_questions": []
+}

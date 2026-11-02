@@ -1,0 +1,9 @@
+# Thyroid
+# noise: fan
+D: Aapki TSH report dekhi, 9.2 hai, thyroid thoda kam kaam kar raha hai.
+P: Haan doctor, isliye shayad kamzori rehti hai aur weight badh raha hai.
+D: Thyronorm 50 ek tablet roz subah khali pet lena hai, nashte se aadha ghanta pehle.
+D: Ye tablet chhe hafte lo, phir TSH dobara check karenge.
+P: Chai ke saath le sakti hoon? Ya nashte ke saath?
+D: Nahi, sirf saade paani ke saath, khali pet.
+D: Chhe hafte baad report leke aana.

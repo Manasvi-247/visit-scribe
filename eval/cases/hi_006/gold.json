@@ -1,0 +1,37 @@
+{
+  "summary": {
+    "en": "Burning in the chest after meals with sour burps; acidity. Pan-D every morning before breakfast for 14 days and Digene syrup when burning is bad. Limit tea to two cups, eat dinner two to three hours before sleep, review in two weeks.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Acidity", "source_segments": [3]}
+  ],
+  "medications": [
+    {
+      "name": "Pan-D",
+      "generic": "pantoprazole + domperidone",
+      "form": "capsule",
+      "dose": "1 capsule",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": 14,
+      "source_segments": [3]
+    },
+    {
+      "name": "Digene",
+      "generic": "antacid (magnesium hydroxide + aluminium hydroxide + simethicone)",
+      "form": "syrup",
+      "dose": "2 teaspoons",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [4]
+    }
+  ],
+  "tests": [],
+  "follow_up": {"in_days": 14, "reason": "acidity review", "source_segments": [6]},
+  "instructions": [
+    {"text": "Limit tea to two cups a day and eat dinner two to three hours before sleeping", "source_segments": [5]}
+  ],
+  "open_questions": []
+}

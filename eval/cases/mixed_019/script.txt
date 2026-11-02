@@ -1,0 +1,12 @@
+# PCOS and anaemia
+# noise: quiet
+P: Doctor, my periods are irregular, kabhi do mahine tak nahi aate. Aur weight bhi badh raha hai.
+D: Aapke ultrasound mein PCOS dikh raha hai, and haemoglobin is 9.8, so you are anaemic too.
+D: Glycomet 500, one tablet at night after dinner, for three months.
+D: Orofer XT, one tablet every morning after breakfast, three months.
+P: Doctor, iron tablet ka koi side effect? Constipation toh nahi hoga?
+D: Thoda ho sakta hai, toh paani zyada piyo and fruits khao. Iron chai ke saath mat lena.
+D: Limcee one tablet, Orofer ke saath hi lena, it helps absorption.
+D: TSH aur fasting blood sugar bhi karwa lo.
+D: Roz 45 minutes exercise, and sugar aur maida kam karo.
+D: Follow up after three months with Hb report.

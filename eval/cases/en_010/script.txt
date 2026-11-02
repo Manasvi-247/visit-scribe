@@ -1,0 +1,11 @@
+# High BP and cholesterol
+# noise: fan
+D: Your BP today is 160 by 100, and your cholesterol report is also high.
+P: I do get headaches in the morning, doctor.
+D: I am starting Telma 40, one tablet every morning after breakfast.
+D: Amlong 5, one tablet at night after dinner.
+D: And Atorva 10, one tablet at bedtime, daily.
+P: Do I have to take these lifelong?
+D: For now take them regularly. We will decide after the next reports.
+D: Less salt, no pickles or papad, and walk forty minutes every day.
+D: Repeat lipid profile and kidney function test after one month, then come and see me.

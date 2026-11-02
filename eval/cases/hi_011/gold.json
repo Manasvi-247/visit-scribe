@@ -1,0 +1,41 @@
+{
+  "summary": {
+    "en": "TSH 9 on Thyronorm 50. Dose raised to Thyronorm 75 every morning on an empty stomach with water, tea and breakfast half an hour later; stop the 50. Continue Shelcal 500 but at night after food, repeat TSH in six weeks.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "TSH 9 on Thyronorm 50", "source_segments": [0, 2]}
+  ],
+  "medications": [
+    {
+      "name": "Thyronorm 75",
+      "generic": "levothyroxine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": null,
+      "source_segments": [3, 5]
+    },
+    {
+      "name": "Shelcal 500",
+      "generic": "calcium + vitamin D3",
+      "form": "tablet",
+      "dose": null,
+      "frequency_code": "0-0-1",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [7]
+    }
+  ],
+  "tests": [
+    {"name": "TSH", "when": "after six weeks", "source_segments": [9]}
+  ],
+  "follow_up": {"in_days": 42, "reason": "thyroid review with TSH report", "source_segments": [9]},
+  "instructions": [
+    {"text": "Stop Thyronorm 50", "source_segments": [8]},
+    {"text": "Take Thyronorm on an empty stomach with water, tea and breakfast half an hour later", "source_segments": [5]},
+    {"text": "Take Shelcal at night, not with the thyroid tablet", "source_segments": [7]}
+  ],
+  "open_questions": ["Shelcal 500 dose (number of tablets) was not stated."]
+}

@@ -1,0 +1,69 @@
+{
+  "summary": {
+    "en": "One-sided headaches with vomiting and light sensitivity, diagnosed as migraine, with frequent Combiflam use. Stop Combiflam; Naxdom 500 when a headache starts, up to two a day, and Sibelium 5 at bedtime for two months. Keep a headache diary, regular sleep and meals, review in one month.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Migraine",
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Naxdom 500",
+      "generic": "naproxen + domperidone",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Sibelium 5",
+      "generic": "flunarizine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 60,
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 30,
+    "reason": "migraine review with headache diary",
+    "source_segments": [
+      9
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Stop Combiflam",
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "text": "Not more than two Naxdom 500 in a day",
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "text": "Keep a headache diary, sleep on time, do not skip meals",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": []
+}

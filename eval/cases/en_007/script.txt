@@ -1,0 +1,9 @@
+# Acidity
+# noise: fan
+P: Doctor, I have burning in my chest after meals, and sour burps.
+D: Do you eat late at night? How much tea or coffee?
+P: I drink four or five cups of tea and I eat dinner at eleven.
+D: Take Pan 40, one tablet in the morning before breakfast, for fourteen days.
+D: Gelusil syrup, two teaspoons after food whenever there is burning.
+D: Cut tea to two cups a day and finish dinner by eight thirty.
+D: Follow up after two weeks.

@@ -1,0 +1,99 @@
+{
+  "summary": {
+    "en": "Evening fever for a week with loss of appetite after street food; typhoid to be checked. Taxim-O 200 twice a day after food for fourteen days, Dolo 650 for fever up to three a day, continue Pan 40 before breakfast. Widal and CBC today, boiled water and home food, return with reports in two days.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Typhoid to be ruled out",
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Taxim-O",
+      "generic": "cefixime",
+      "form": "tablet",
+      "dose": "200 mg",
+      "frequency_code": "1-0-1",
+      "food": "after",
+      "duration_days": 14,
+      "source_segments": [
+        4,
+        6
+      ]
+    },
+    {
+      "name": "Dolo 650",
+      "generic": "paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "name": "Pan 40",
+      "generic": "pantoprazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": null,
+      "source_segments": [
+        9
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "Widal",
+      "when": "today",
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "CBC",
+      "when": "today",
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 2,
+    "reason": "review with Widal and CBC reports",
+    "source_segments": [
+      10
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Complete the Taxim-O course even if the fever goes",
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "text": "Not more than three Dolo 650 in a day",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "text": "Only boiled water and home food",
+      "source_segments": [
+        10
+      ]
+    }
+  ],
+  "open_questions": [
+    "Pan 40: for how many days?"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "summary": {
+    "en": "Fasting sugar 180 and HbA1c 8.2, diabetes not controlled. Glycomet GP 1 twice daily before food, Januvia every morning and Atorva 10 at bedtime, all for three months. No sweets or cold drinks, brisk walk 40 minutes daily, repeat sugar tests and lipid profile in three months.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Diabetes not controlled, HbA1c 8.2", "source_segments": [1]}
+  ],
+  "medications": [
+    {
+      "name": "Glycomet GP 1",
+      "generic": "metformin + glimepiride",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "before",
+      "duration_days": 90,
+      "source_segments": [2, 5]
+    },
+    {
+      "name": "Januvia",
+      "generic": "sitagliptin",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 90,
+      "source_segments": [3, 5]
+    },
+    {
+      "name": "Atorva 10",
+      "generic": "atorvastatin",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 90,
+      "source_segments": [4, 5]
+    }
+  ],
+  "tests": [
+    {"name": "HbA1c", "when": "after three months", "source_segments": [8]},
+    {"name": "Fasting blood sugar", "when": "after three months", "source_segments": [8]},
+    {"name": "Post-prandial blood sugar", "when": "after three months", "source_segments": [8]},
+    {"name": "Lipid profile", "when": "after three months", "source_segments": [8]}
+  ],
+  "follow_up": {"in_days": 90, "reason": "diabetes review with reports", "source_segments": [8]},
+  "instructions": [
+    {"text": "No sweets or cold drinks, brisk walk for 40 minutes every day", "source_segments": [7]}
+  ],
+  "open_questions": []
+}

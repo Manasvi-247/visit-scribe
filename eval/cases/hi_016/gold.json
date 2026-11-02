@@ -1,0 +1,48 @@
+{
+  "summary": {
+    "en": "Itchy round red patches in the groin for a month; fungal infection (ringworm). Candid cream twice a day for four weeks, Forcan 150 once a week for four weeks and Allegra 120 at night for ten days. Loose cotton clothes, dry well, separate towel, review in four weeks.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Fungal infection (ringworm)", "source_segments": [3]}
+  ],
+  "medications": [
+    {
+      "name": "Candid",
+      "generic": "clotrimazole",
+      "form": "cream",
+      "dose": null,
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": 28,
+      "source_segments": [4]
+    },
+    {
+      "name": "Forcan 150",
+      "generic": "fluconazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "weekly",
+      "food": "any",
+      "duration_days": 28,
+      "source_segments": [5]
+    },
+    {
+      "name": "Allegra 120",
+      "generic": "fexofenadine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 10,
+      "source_segments": [6]
+    }
+  ],
+  "tests": [],
+  "follow_up": {"in_days": 28, "reason": "skin review", "source_segments": [8]},
+  "instructions": [
+    {"text": "Continue Candid cream even after the rash clears, for the full four weeks", "source_segments": [4]},
+    {"text": "Wear loose cotton clothes, dry well after bathing, keep a separate towel", "source_segments": [7]}
+  ],
+  "open_questions": []
+}

@@ -1,0 +1,11 @@
+# Conjunctivitis
+# noise: quiet
+P: Doctor, both eyes are red since yesterday, aur subah palkein chipki hui thi.
+D: Any pain or blurred vision? Kisi dawai se allergy hai?
+P: No pain, no allergy, bas khujli aur paani aa raha hai.
+D: It's conjunctivitis, eye flu. Moxicip eye drops, one drop in both eyes, four times a day for seven days.
+D: Refresh Tears drops, one drop whenever eyes feel dry or irritated.
+D: Itching ke liye Cetzine, one tablet at night for five days.
+D: Aankhon ko haath mat lagao, hands wash karte raho, and use a separate towel and pillow.
+D: Three to four days ghar pe raho, ye fast spread hota hai.
+D: If redness doesn't go in a week, come back.

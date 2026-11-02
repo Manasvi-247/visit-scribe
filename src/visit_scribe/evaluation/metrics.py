@@ -1,10 +1,11 @@
 import unicodedata
+from collections import Counter
 from dataclasses import dataclass
 
 from visit_scribe.evaluation.cases import EvalCase
 from visit_scribe.notation import name_key, normalize_dose, normalize_frequency
 from visit_scribe.pipeline.base import PipelineOutput
-from visit_scribe.schema import VisitRecord
+from visit_scribe.schema import Medication, VisitRecord
 
 
 @dataclass
@@ -42,11 +43,22 @@ def word_edits(reference: str, hypothesis: str) -> int:
     return previous[-1]
 
 
+def _medications_by_key(record: VisitRecord) -> dict[str, Medication]:
+    """Repeated names (a taper's steps) get #1, #2 suffixes so each step is scored separately."""
+    seen: Counter[str] = Counter()
+    keyed = {}
+    for med in record.medications:
+        key = name_key(med.name)
+        seen[key] += 1
+        keyed[f"{key}#{seen[key]}"] = med
+    return keyed
+
+
 def _items(record: VisitRecord) -> dict[str, list[int]]:
     """Scorable items keyed by identity, each with the segments it cites."""
     items: dict[str, list[int]] = {}
-    for med in record.medications:
-        items.setdefault(f"med:{name_key(med.name)}", med.source_segments)
+    for key, med in _medications_by_key(record).items():
+        items[f"med:{key}"] = med.source_segments
     for test in record.tests:
         items.setdefault(f"test:{name_key(test.name)}", test.source_segments)
     if record.follow_up and record.follow_up.in_days is not None:
@@ -63,8 +75,8 @@ def score_case(case: EvalCase, output: PipelineOutput, seconds: float) -> CaseSc
         if not cited or any(not 0 <= s < segment_count for s in cited)
     )
 
-    gold_meds = {name_key(m.name): m for m in case.gold.medications}
-    predicted_meds = {name_key(m.name): m for m in output.record.medications}
+    gold_meds = _medications_by_key(case.gold)
+    predicted_meds = _medications_by_key(output.record)
     matched = gold_meds.keys() & predicted_meds.keys()
     correct = sum(
         1
@@ -73,6 +85,7 @@ def score_case(case: EvalCase, output: PipelineOutput, seconds: float) -> CaseSc
         and normalize_frequency(gold_meds[key].frequency_code)
         == normalize_frequency(predicted_meds[key].frequency_code)
     )
+    gold_names = {name_key(m.name) for m in case.gold.medications}
     heard = {name_key(name) for name in output.drug_mentions}
 
     edits = reference_words = None
@@ -86,8 +99,8 @@ def score_case(case: EvalCase, output: PipelineOutput, seconds: float) -> CaseSc
         lang=case.lang,
         word_edits=edits,
         reference_words=reference_words,
-        drugs_heard=len(gold_meds.keys() & heard),
-        drugs_total=len(gold_meds),
+        drugs_heard=len(gold_names & heard),
+        drugs_total=len(gold_names),
         true_positives=len(gold_items.keys() & predicted_items.keys()),
         false_positives=len(predicted_items.keys() - gold_items.keys()),
         false_negatives=len(gold_items.keys() - predicted_items.keys()),

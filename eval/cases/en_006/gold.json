@@ -1,0 +1,53 @@
+{
+  "summary": {
+    "en": "TSH 7.8, hypothyroidism. Thyronorm 50 every morning on an empty stomach, long term. Repeat TSH and return with the report in six weeks.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Hypothyroidism, TSH 7.8",
+      "source_segments": [
+        0
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Thyronorm 50",
+      "generic": "levothyroxine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": null,
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "TSH",
+      "when": "after six weeks",
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 42,
+    "reason": "thyroid review with TSH report",
+    "source_segments": [
+      6
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Do not stop Thyronorm 50 on your own",
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "open_questions": []
+}

@@ -1,0 +1,12 @@
+# Elderly diabetic with low sugars
+# noise: tv
+P: Doctor, my father is seventy two. He gets giddy in the mornings, and twice his sugar was below seventy.
+D: What is he taking now for sugar?
+P: Glycomet GP 1, one in the morning and one at night.
+D: That is too strong for him now. Stop Glycomet GP 1.
+D: Instead start Glycomet 500, one tablet after breakfast and one after dinner.
+P: Same timing as before?
+D: Yes, but after food, not before. And continue Telma 40, one tablet in the morning.
+D: Continue Ecosprin 75 also, one tablet after dinner.
+D: Check his sugar on the glucometer, fasting and two hours after lunch, every alternate day, and write it down.
+D: Get HbA1c and kidney function test done, and bring him back after two weeks.

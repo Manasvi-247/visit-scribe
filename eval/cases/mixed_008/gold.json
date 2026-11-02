@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "en": "HbA1c is 8.9, diabetes not controlled. Stop Glycomet 500 and start Glycomet GP 1 twice a day before food, continue Januvia every morning, both for three months. Fasting and PP sugar monthly, HbA1c after three months, no sweets, less rice, a 40 minute walk daily.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Uncontrolled diabetes (HbA1c 8.9)",
+      "source_segments": [
+        0
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Glycomet GP 1",
+      "generic": "metformin + glimepiride",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "before",
+      "duration_days": 90,
+      "source_segments": [
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "name": "Januvia",
+      "generic": "sitagliptin",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "any",
+      "duration_days": 90,
+      "source_segments": [
+        5,
+        7
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "HbA1c",
+      "when": "after three months",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "name": "Fasting blood sugar",
+      "when": "every month",
+      "source_segments": [
+        8
+      ]
+    },
+    {
+      "name": "Post-prandial blood sugar",
+      "when": "every month",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 90,
+    "reason": "diabetes review",
+    "source_segments": [
+      10
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Stop Glycomet 500",
+      "source_segments": [
+        2
+      ]
+    },
+    {
+      "text": "No sweets",
+      "source_segments": [
+        9
+      ]
+    },
+    {
+      "text": "Reduce rice",
+      "source_segments": [
+        9
+      ]
+    },
+    {
+      "text": "Walk 40 minutes daily",
+      "source_segments": [
+        9
+      ]
+    }
+  ],
+  "open_questions": []
+}

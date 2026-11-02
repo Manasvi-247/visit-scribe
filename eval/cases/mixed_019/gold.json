@@ -1,0 +1,110 @@
+{
+  "summary": {
+    "en": "Irregular periods and weight gain; ultrasound shows PCOS and haemoglobin is 9.8. Glycomet 500 at night and Orofer XT every morning after food for three months, Limcee with Orofer XT. TSH and fasting sugar tests, daily exercise, less sugar and maida, follow up in three months.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "PCOS",
+      "source_segments": [
+        1
+      ]
+    },
+    {
+      "text": "Anaemia (haemoglobin 9.8)",
+      "source_segments": [
+        1
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Glycomet 500",
+      "generic": "metformin",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "after",
+      "duration_days": 90,
+      "source_segments": [
+        2
+      ]
+    },
+    {
+      "name": "Orofer XT",
+      "generic": "ferrous ascorbate + folic acid",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 90,
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "Limcee",
+      "generic": "vitamin C",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "TSH",
+      "when": null,
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "name": "Fasting blood sugar",
+      "when": null,
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 90,
+    "reason": "review with Hb report",
+    "source_segments": [
+      9
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Drink more water and eat fruits",
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "text": "Do not take iron with tea",
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "text": "Exercise 45 minutes daily",
+      "source_segments": [
+        8
+      ]
+    },
+    {
+      "text": "Reduce sugar and maida",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": [
+    "Limcee: how many days?"
+  ]
+}

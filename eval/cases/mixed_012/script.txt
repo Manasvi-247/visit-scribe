@@ -1,0 +1,9 @@
+# Urine infection
+# noise: fan
+P: Doctor, teen din se urine pass karte time jalan hai, aur baar baar jaana padta hai.
+D: Fever ya kamar mein dard hai?
+P: Nahi, fever nahi hai. Goli khane ke saath le sakte hain?
+D: Ciplox 500 ek tablet subah-shaam, khane ke baad, 5 din ka course.
+D: Urine routine test aaj karwa lo.
+D: Paani zyada piyo, din mein kam se kam teen litre.
+D: Paanch din baad dobara dikhana.

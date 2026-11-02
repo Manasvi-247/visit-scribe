@@ -1,0 +1,59 @@
+{
+  "summary": {
+    "en": "Known asthma with night breathlessness and wheeze, using Asthalin four to five times a day. Asthalin 2 puffs when needed, Foracort 200 2 puffs twice daily, and a Wysolone 10 taper over six days. Rinse mouth after the inhaler, review in a week, go to emergency if very breathless.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Known asthma", "source_segments": [1, 2]}
+  ],
+  "medications": [
+    {
+      "name": "Asthalin",
+      "generic": "salbutamol",
+      "form": "inhaler",
+      "dose": "2 puffs",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [3]
+    },
+    {
+      "name": "Foracort 200",
+      "generic": "budesonide + formoterol",
+      "form": "inhaler",
+      "dose": "2 puffs",
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [4]
+    },
+    {
+      "name": "Wysolone 10",
+      "generic": "prednisolone",
+      "form": "tablet",
+      "dose": "2 tablets",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 3,
+      "source_segments": [6]
+    },
+    {
+      "name": "Wysolone 10",
+      "generic": "prednisolone",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 3,
+      "source_segments": [6]
+    }
+  ],
+  "tests": [],
+  "follow_up": {"in_days": 7, "reason": "asthma review", "source_segments": [9]},
+  "instructions": [
+    {"text": "Rinse the mouth after using the inhaler", "source_segments": [5]},
+    {"text": "Wysolone: 2 tablets for 3 days, then 1 tablet for 3 days, then stop", "source_segments": [6]},
+    {"text": "Go straight to emergency if very breathless", "source_segments": [9]}
+  ],
+  "open_questions": ["Foracort 200 is to be taken daily. For how long?"]
+}

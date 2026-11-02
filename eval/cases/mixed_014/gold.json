@@ -1,0 +1,70 @@
+{
+  "summary": {
+    "en": "One-sided severe headaches two to three times a week with light sensitivity, diagnosed as migraine. Stop daily Combiflam; Sibelium 10 at bedtime for a month and Naxdom 500 after food when pain starts, at most twice a week. Keep a headache diary and return in a month.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Migraine",
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Sibelium 10",
+      "generic": "flunarizine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 30,
+      "source_segments": [
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Naxdom 500",
+      "generic": "naproxen + domperidone",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "SOS",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 30,
+    "reason": "review with headache diary",
+    "source_segments": [
+      9
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Stop Combiflam and daily painkillers",
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "text": "Naxdom 500 not more than twice a week",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "text": "Keep a headache diary: when the pain came, what was eaten, whether sleep was enough",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": []
+}

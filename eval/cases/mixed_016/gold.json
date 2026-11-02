@@ -1,0 +1,93 @@
+{
+  "summary": {
+    "en": "Both eyes red since yesterday with itching, watering and sticky lids, diagnosed as conjunctivitis. Moxicip four times a day for seven days, Refresh Tears when eyes feel dry, Cetzine at night for five days. Do not touch the eyes, wash hands, separate towel and pillow, stay home three to four days, return if redness lasts a week.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Conjunctivitis",
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Moxicip",
+      "generic": "moxifloxacin",
+      "form": "eye drops",
+      "dose": "1 drop",
+      "frequency_code": "1-1-1-1",
+      "food": "any",
+      "duration_days": 7,
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "Refresh Tears",
+      "generic": "carboxymethylcellulose",
+      "form": "eye drops",
+      "dose": "1 drop",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Cetzine",
+      "generic": "cetirizine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 5,
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 7,
+    "reason": "if redness persists",
+    "source_segments": [
+      8
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Moxicip in both eyes",
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "text": "Do not touch the eyes",
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "text": "Wash hands often",
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "text": "Use a separate towel and pillow",
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "text": "Stay at home for three to four days",
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "open_questions": []
+}

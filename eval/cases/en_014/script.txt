@@ -1,0 +1,11 @@
+# Child with cold, cough and fever
+# noise: tv
+P: Doctor, my daughter has had a running nose and cough for three days, and fever since last night.
+D: How old is she, and what is her weight?
+P: She is four years old, sixteen kilos.
+D: Give Calpol syrup, seven and a half ml, every six hours only if the fever is above one hundred.
+D: Ambrodil S syrup, five ml morning and night, for five days.
+D: Nasivion paediatric nose drops, one drop in each nostril at bedtime, for three days only.
+P: Can she go to school?
+D: Keep her at home for two days, and give warm fluids and soups.
+D: Bring her back after five days, or earlier if she has trouble breathing.

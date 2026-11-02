@@ -1,0 +1,12 @@
+# Migraine with painkiller overuse
+# noise: tv
+P: Doctor, I get one-sided headaches three or four times a month, with vomiting, and light hurts my eyes.
+D: What do you take when it comes?
+P: Combiflam, sometimes two or three a day, almost fifteen days in a month.
+D: This is migraine, and that much painkiller can itself make the headaches worse. Stop Combiflam.
+D: When the headache starts, take Naxdom five hundred, one tablet, not more than two in a day.
+D: To prevent the attacks, start Sibelium ten at bedtime. Sorry, start with Sibelium five, one tablet at bedtime, for two months.
+P: Will it make me sleepy?
+D: A little in the beginning, that is why it is at night.
+D: Keep a headache diary, sleep on time, and don't skip meals.
+D: Come back after one month with the diary.

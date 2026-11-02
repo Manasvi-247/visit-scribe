@@ -1,0 +1,12 @@
+# Fever, dengue to be ruled out
+# noise: quiet
+D: Tell me, what is the problem?
+P: High fever for four days, doctor, a hundred and three, severe body pain and pain behind the eyes.
+P: I have been taking Combiflam from the medical shop.
+D: Stop Combiflam right away. With this kind of fever we have to rule out dengue, and Combiflam is not safe then.
+D: Take Dolo 650, one tablet twice a day. No, make it three times a day, after food, for three days.
+P: Doctor, can I take it along with the Combiflam for the pain?
+D: No, no Combiflam at all. Only Dolo.
+D: Get dengue NS1 and CBC done today itself.
+D: Drink at least three litres of fluids a day: coconut water, juices, and Electral, one sachet in one litre of water.
+D: Come back tomorrow with the reports, and come immediately if you have bleeding gums or black stools.

@@ -1,0 +1,74 @@
+{
+  "summary": {
+    "en": "Four-year-old (16 kg) with running nose and cough for three days and fever since last night. Calpol syrup when fever is above 100, Ambrodil S syrup twice a day for five days and Nasivion nose drops at bedtime for three days. Home for two days with warm fluids, review in five days or earlier if breathing is difficult.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Calpol",
+      "generic": "paracetamol",
+      "form": "syrup",
+      "dose": "7.5 ml",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "Ambrodil S",
+      "generic": "ambroxol + salbutamol",
+      "form": "syrup",
+      "dose": "5 ml",
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": 5,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Nasivion",
+      "generic": "oxymetazoline",
+      "form": "nasal drops",
+      "dose": "1 drop",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 3,
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 5,
+    "reason": "cold and fever review",
+    "source_segments": [
+      8
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Keep her at home for two days",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "text": "Give warm fluids and soups",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "text": "Come earlier if she has trouble breathing",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": []
+}

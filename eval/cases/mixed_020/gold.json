@@ -1,0 +1,80 @@
+{
+  "summary": {
+    "en": "Vitamin D level is 8 with bone pain and weakness. Uprise D3 60K once a week on Sundays after food with milk for eight weeks, Shelcal on alternate days at night after food, stop Becosules. Sit in the morning sun for 15 to 20 minutes daily and recheck Vitamin D in two months.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Vitamin D deficiency (level 8)",
+      "source_segments": [
+        0
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Uprise D3 60K",
+      "generic": "cholecalciferol",
+      "form": "capsule",
+      "dose": "1 capsule",
+      "frequency_code": "weekly",
+      "food": "after",
+      "duration_days": 56,
+      "source_segments": [
+        2,
+        4
+      ]
+    },
+    {
+      "name": "Shelcal 500",
+      "generic": "calcium + vitamin D3",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "alternate days",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "Vitamin D",
+      "when": "after two months",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 60,
+    "reason": "review with Vitamin D report",
+    "source_segments": [
+      8
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Take Uprise D3 60K on Sundays with milk",
+      "source_segments": [
+        2
+      ]
+    },
+    {
+      "text": "Stop Becosules",
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "text": "Sit in the morning sun for 15 to 20 minutes daily",
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "open_questions": [
+    "Shelcal 500: how many days?"
+  ]
+}

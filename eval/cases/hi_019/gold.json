@@ -1,0 +1,52 @@
+{
+  "summary": {
+    "en": "Missed periods for two months with a positive home pregnancy test. Folvite 5 every morning and Shelcal 500 twice daily for three months, Doxinate at bedtime for fifteen days for nausea. CBC, TSH, urine routine and ultrasound; come at once if bleeding or severe abdominal pain, review in a month.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Pregnancy, positive home test", "source_segments": [0, 1]}
+  ],
+  "medications": [
+    {
+      "name": "Folvite 5",
+      "generic": "folic acid",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 90,
+      "source_segments": [2]
+    },
+    {
+      "name": "Doxinate",
+      "generic": "doxylamine + pyridoxine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 15,
+      "source_segments": [4]
+    },
+    {
+      "name": "Shelcal 500",
+      "generic": "calcium + vitamin D3",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "after",
+      "duration_days": 90,
+      "source_segments": [5]
+    }
+  ],
+  "tests": [
+    {"name": "CBC", "when": null, "source_segments": [6]},
+    {"name": "TSH", "when": null, "source_segments": [6]},
+    {"name": "Urine routine", "when": null, "source_segments": [6]},
+    {"name": "Obstetric ultrasound", "when": null, "source_segments": [6]}
+  ],
+  "follow_up": {"in_days": 30, "reason": "pregnancy review with reports", "source_segments": [8]},
+  "instructions": [
+    {"text": "Come immediately if there is bleeding or severe abdominal pain", "source_segments": [7]}
+  ],
+  "open_questions": []
+}

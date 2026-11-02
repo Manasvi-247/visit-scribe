@@ -1,0 +1,112 @@
+{
+  "summary": {
+    "en": "BP 160/100 with morning headaches, mild dizziness and previously high cholesterol. Telma 40 in the morning before food, Amlong 5 and Atorva 10 at night after food, all for a month. Lipid profile, kidney function test and ECG, report any foot swelling, less salt, oil and spices, a daily 30 minute walk, follow up in a month with reports.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "High blood pressure (160/100)",
+      "source_segments": [
+        0
+      ]
+    },
+    {
+      "text": "High cholesterol on previous report",
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Telma 40",
+      "generic": "telmisartan",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": 30,
+      "source_segments": [
+        2,
+        6
+      ]
+    },
+    {
+      "name": "Amlong 5",
+      "generic": "amlodipine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "after",
+      "duration_days": 30,
+      "source_segments": [
+        3,
+        6
+      ]
+    },
+    {
+      "name": "Atorva 10",
+      "generic": "atorvastatin",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "after",
+      "duration_days": 30,
+      "source_segments": [
+        4,
+        6
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "Lipid profile",
+      "when": null,
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "name": "Kidney function test",
+      "when": null,
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "name": "ECG",
+      "when": null,
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 30,
+    "reason": "BP review with reports",
+    "source_segments": [
+      9
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Report any swelling in the feet",
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "text": "Reduce salt, oil and spices",
+      "source_segments": [
+        8
+      ]
+    },
+    {
+      "text": "Walk for 30 minutes daily",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": []
+}

@@ -1,0 +1,103 @@
+{
+  "summary": {
+    "en": "Haemoglobin 8.5, iron deficiency anaemia, with heavy periods and tiredness. Orofer XT on alternate days after lunch for three months, Becosules after breakfast for a month, Meftal Spas for period pain. CBC, pelvic ultrasound and TSH, see a gynaecologist, return in one month with the CBC.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Iron deficiency anaemia, haemoglobin 8.5",
+      "source_segments": [
+        0
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Orofer XT",
+      "generic": "ferrous ascorbate + folic acid",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "alternate days",
+      "food": "after",
+      "duration_days": 90,
+      "source_segments": [
+        2
+      ]
+    },
+    {
+      "name": "Becosules",
+      "generic": "vitamin B complex",
+      "form": "capsule",
+      "dose": "1 capsule",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 30,
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "name": "Meftal Spas",
+      "generic": "mefenamic acid + dicyclomine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "CBC",
+      "when": null,
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "name": "Ultrasound pelvis",
+      "when": null,
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "name": "TSH",
+      "when": null,
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 30,
+    "reason": "anaemia review with CBC",
+    "source_segments": [
+      8
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Keep a one hour gap between Orofer XT and tea or milk; take it with lemon water if possible",
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "text": "Not more than three Meftal Spas in a day",
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "text": "See a gynaecologist for the heavy periods",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": []
+}

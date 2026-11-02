@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "en": "Fever since last night with body ache, 101. Likely viral fever. Dolo 650 three times a day after food for three days, plenty of fluids and rest, return if fever does not settle in three days.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Viral fever", "source_segments": [3]}
+  ],
+  "medications": [
+    {
+      "name": "Dolo 650",
+      "generic": "paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-1-1",
+      "food": "after",
+      "duration_days": 3,
+      "source_segments": [4]
+    }
+  ],
+  "tests": [],
+  "follow_up": {"in_days": 3, "reason": "if fever does not come down", "source_segments": [6]},
+  "instructions": [
+    {"text": "Drink plenty of water and coconut water and rest", "source_segments": [5]}
+  ],
+  "open_questions": []
+}

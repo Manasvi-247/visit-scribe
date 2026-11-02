@@ -1,0 +1,70 @@
+{
+  "summary": {
+    "en": "Four-year-old with fever up to 102 and cough for two days. Stop Combiflam; Calpol 7.5 ml when fever is above 100 with at least six hours between doses, and Ambrodil S 5 ml twice a day for five days. Give plenty of water and warm soup, nothing cold, return in three days if no relief.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Calpol",
+      "generic": "paracetamol",
+      "form": "syrup",
+      "dose": "7.5 ml",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        3,
+        5
+      ]
+    },
+    {
+      "name": "Ambrodil S",
+      "generic": "ambroxol + salbutamol",
+      "form": "syrup",
+      "dose": "5 ml",
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": 5,
+      "source_segments": [
+        6,
+        7
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 3,
+    "reason": "if no relief from fever and cough",
+    "source_segments": [
+      9
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Stop Combiflam, do not give it to the child",
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "text": "Calpol only when fever is above 100",
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "text": "Keep at least six hours between Calpol doses",
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "text": "Give plenty of water and warm soup, nothing cold",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": []
+}

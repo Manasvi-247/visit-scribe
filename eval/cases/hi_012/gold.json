@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "en": "Loose motions since yesterday, eight to ten times, with cramps and no vomiting or fever. Electral a glass after each loose motion and Metrogyl 400 three times a day after food for five days. Light diet, come at once if blood in stool or dizziness.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Electral",
+      "generic": "oral rehydration salts",
+      "form": "powder",
+      "dose": "1 glass (1 sachet in 1 litre of water)",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [3]
+    },
+    {
+      "name": "Metrogyl 400",
+      "generic": "metronidazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-1-1",
+      "food": "after",
+      "duration_days": 5,
+      "source_segments": [4]
+    }
+  ],
+  "tests": [],
+  "follow_up": null,
+  "instructions": [
+    {"text": "Eat khichdi, curd and banana, avoid fried and outside food", "source_segments": [5]},
+    {"text": "Come immediately if there is blood in the stool or dizziness", "source_segments": [6]}
+  ],
+  "open_questions": []
+}

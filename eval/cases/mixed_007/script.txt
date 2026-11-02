@@ -1,0 +1,12 @@
+# High BP
+# noise: fan
+D: BP check kiya hai, it's 160 by 100. Kaafi high hai.
+P: Doctor, few days se sir dard aur thoda chakkar ho raha hai, especially morning mein.
+D: Aapko regular BP medicine start karni padegi. Telma 40, one tablet roz subah, khane se pehle.
+D: Amlong 5, one tablet at night, after dinner.
+D: Pichhli report mein cholesterol bhi high tha, so Atorva 10 one tablet raat ko, khane ke baad.
+P: Ye sab kitne din lena hai? Koi side effect toh nahi?
+D: Abhi ek mahine ka prescription likh raha hoon, sab ek mahina. Pair mein sujan aaye toh batana.
+D: Lipid profile, kidney function test aur ECG karwa lo.
+D: Namak aur tel-masala kam karo, aur roz aadha ghanta walk karo.
+D: One month baad reports ke saath checkup ke liye aana.

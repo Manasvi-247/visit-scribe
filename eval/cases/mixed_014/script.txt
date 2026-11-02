@@ -1,0 +1,12 @@
+# Migraine
+# noise: quiet
+P: Doctor, mujhe hafte mein do-teen baar bahut tez sir dard hota hai, ek side mein.
+D: Roshni ya awaaz se dikkat hoti hai? Ulti jaisa lagta hai?
+P: Haan, light bilkul bardasht nahi hoti. Main roz Combiflam le rahi hoon.
+D: Roz painkiller lena band karo, Combiflam band. Isse sir dard aur badhta hai.
+D: Ye migraine hai. Sibelium 10 ek tablet raat ko sote time, pandrah din.
+D: Nahi, pandrah din nahi, ek mahina lo, tabhi fayda dikhega.
+P: Aur jab dard shuru ho jaaye tab kya karun?
+D: Tab Naxdom 500 ek tablet le lena, khane ke baad. Hafte mein do se zyada nahi.
+D: Ek headache diary banao, kab dard hua, kya khaya, neend poori hui ya nahi.
+D: Ek mahine baad diary leke aana.

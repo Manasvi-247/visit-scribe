@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "en": "Seventy-two-year-old with morning giddiness and sugar twice below 70 on Glycomet GP 1. Stop Glycomet GP 1 and start Glycomet 500 after breakfast and dinner; continue Telma 40 in the morning and Ecosprin 75 after dinner. Check fasting and post-lunch sugar on alternate days, HbA1c and kidney function test, review in two weeks.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Glycomet 500",
+      "generic": "metformin",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [
+        4,
+        6
+      ]
+    },
+    {
+      "name": "Telma 40",
+      "generic": "telmisartan",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        6
+      ]
+    },
+    {
+      "name": "Ecosprin 75",
+      "generic": "aspirin",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "HbA1c",
+      "when": null,
+      "source_segments": [
+        9
+      ]
+    },
+    {
+      "name": "Kidney function test",
+      "when": null,
+      "source_segments": [
+        9
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 14,
+    "reason": "diabetes review",
+    "source_segments": [
+      9
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Stop Glycomet GP 1",
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "text": "Check sugar on the glucometer, fasting and two hours after lunch, every alternate day, and write it down",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": []
+}

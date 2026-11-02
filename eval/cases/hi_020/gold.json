@@ -1,0 +1,41 @@
+{
+  "summary": {
+    "en": "Body ache, especially back and legs, with vitamin D of 11. Uprise D3 60K one sachet in milk once a week (every Sunday) for eight weeks, never daily, and Becosules on alternate days after breakfast for a month; stop Combiflam. Sit in the sun 15 to 20 minutes daily, repeat vitamin D after two months.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Vitamin D deficiency, level 11", "source_segments": [1]}
+  ],
+  "medications": [
+    {
+      "name": "Uprise D3 60K",
+      "generic": "cholecalciferol",
+      "form": "sachet",
+      "dose": "1 sachet",
+      "frequency_code": "weekly",
+      "food": "any",
+      "duration_days": 56,
+      "source_segments": [2, 4]
+    },
+    {
+      "name": "Becosules",
+      "generic": "vitamin B complex",
+      "form": "capsule",
+      "dose": "1 capsule",
+      "frequency_code": "alternate days",
+      "food": "after",
+      "duration_days": 30,
+      "source_segments": [7, 8]
+    }
+  ],
+  "tests": [
+    {"name": "Vitamin D", "when": "after two months", "source_segments": [10]}
+  ],
+  "follow_up": {"in_days": 60, "reason": "vitamin D review with report", "source_segments": [10]},
+  "instructions": [
+    {"text": "Mix Uprise D3 60K in milk, once a week on Sunday, never daily", "source_segments": [2, 4]},
+    {"text": "Stop Combiflam", "source_segments": [5, 6]},
+    {"text": "Sit in the sun for 15 to 20 minutes every day", "source_segments": [9]}
+  ],
+  "open_questions": []
+}

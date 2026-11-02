@@ -1,0 +1,13 @@
+# Diabetes not controlled
+# noise: tv
+D: Aapki HbA1c report aayi hai, 8.9 hai. Sugar control mein nahi hai.
+P: Doctor, main Glycomet 500 subah shaam le raha hoon.
+D: Theek hai, Glycomet 500 band kar do. Uski jagah Glycomet GP 1 shuru karo, ek tablet subah nashte se pehle.
+D: Nahi, ek kaam karo, dose badha dete hain, din mein do baar kar do, subah aur raat dono khane se pehle.
+P: Doctor, ye Januvia jo dusre doctor ne likhi thi, wo bhi lu?
+D: Haan, Januvia continue rakho, ek tablet roz subah.
+P: Aur ye kitne din lena hai?
+D: Dono dawai teen mahine tak lo, phir HbA1c repeat karenge.
+D: Fasting aur PP sugar har mahine check karte rehna.
+D: Parhez karna padega. Meetha bilkul band, chawal kam, aur roz chaalis minute walk.
+D: Teen mahine baad milte hain.

@@ -1,0 +1,12 @@
+# Dengue suspicion
+# noise: fan
+D: Haan ji, kitne din se bukhar hai?
+P: Chaar din se, doctor. Tez bukhar hai aur aankhon ke peeche dard hota hai.
+D: Body pe rashes ya gums se bleeding toh nahi ho rahi?
+P: Nahi, bas bahut kamzori hai aur chakkar aata hai. Maine do baar Combiflam li thi.
+D: Combiflam bilkul mat lena, dengue ka doubt hai aur usme ye painkiller safe nahi hai. Fever ke liye sirf Dolo 650, ek tablet, jab fever ho tab.
+D: Electral ka ek sachet ek litre paani mein ghol ke, din mein do baar, paanch din tak.
+D: Limcee ek tablet roz subah nashte ke baad, paanch din.
+D: Aaj hi CBC aur Dengue NS1 test karwa lo, platelet count dekhna hai.
+D: Agar pet mein dard, vomiting ya kahin se bleeding ho toh turant emergency aana, drip lagani pad sakti hai.
+D: Kal report leke aana.

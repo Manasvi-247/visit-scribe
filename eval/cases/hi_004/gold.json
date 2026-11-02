@@ -1,0 +1,50 @@
+{
+  "summary": {
+    "en": "Fever for five days that comes and goes, poor appetite and mild abdominal pain after eating street food. Typhoid suspected; Widal and CBC today. Taxim-O for seven days, Dolo 650 for five days and Pan 40 for seven days; boiled water and light food, return with reports in two days.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Suspected typhoid", "source_segments": [4]}
+  ],
+  "medications": [
+    {
+      "name": "Taxim-O",
+      "generic": "cefixime",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "after",
+      "duration_days": 7,
+      "source_segments": [5]
+    },
+    {
+      "name": "Dolo 650",
+      "generic": "paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-1-1",
+      "food": "any",
+      "duration_days": 5,
+      "source_segments": [6]
+    },
+    {
+      "name": "Pan 40",
+      "generic": "pantoprazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": 7,
+      "source_segments": [7]
+    }
+  ],
+  "tests": [
+    {"name": "Widal", "when": "today", "source_segments": [4]},
+    {"name": "CBC", "when": "today", "source_segments": [4]}
+  ],
+  "follow_up": {"in_days": 2, "reason": "review with reports", "source_segments": [9]},
+  "instructions": [
+    {"text": "Drink boiled water, eat light food, no outside food", "source_segments": [8]}
+  ],
+  "open_questions": []
+}

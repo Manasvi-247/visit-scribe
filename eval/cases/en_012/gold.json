@@ -1,0 +1,77 @@
+{
+  "summary": {
+    "en": "Lower back pain for three days after lifting a heavy bucket, a muscle strain. Combiflam after breakfast and dinner and Pan 40 before breakfast, both for five days, and Volini gel three times a day. Hot water bag in the evening, no heavy lifting for two weeks, review in one week.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Muscle strain of the lower back",
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Combiflam",
+      "generic": "ibuprofen + paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "after",
+      "duration_days": 5,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Pan 40",
+      "generic": "pantoprazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": 5,
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "name": "Volini",
+      "generic": "diclofenac + methyl salicylate + menthol",
+      "form": "gel",
+      "dose": null,
+      "frequency_code": "1-1-1",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 7,
+    "reason": "back pain review",
+    "source_segments": [
+      8
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Hot water bag for fifteen minutes in the evening",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "text": "No lifting heavy weights for two weeks",
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "open_questions": [
+    "Volini gel: for how many days?"
+  ]
+}

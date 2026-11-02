@@ -1,0 +1,83 @@
+{
+  "summary": {
+    "en": "Lower back pain for two weeks with long sitting hours, likely muscle strain. Combiflam twice a day after food and Pan 40 every morning on an empty stomach for five days, Shelcal 500 at night for a month. Vitamin D test, hot fomentation, walk a little every hour, follow up in a week.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Likely muscle strain",
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Combiflam",
+      "generic": "ibuprofen + paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "after",
+      "duration_days": 5,
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "Pan 40",
+      "generic": "pantoprazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "before",
+      "duration_days": 5,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Shelcal 500",
+      "generic": "calcium + vitamin D3",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "after",
+      "duration_days": 30,
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "Vitamin D",
+      "when": null,
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 7,
+    "reason": "back pain review",
+    "source_segments": [
+      8
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Hot water fomentation",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "text": "Get up and walk a little every hour",
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "open_questions": []
+}

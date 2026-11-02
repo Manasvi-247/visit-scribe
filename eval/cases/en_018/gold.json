@@ -1,0 +1,82 @@
+{
+  "summary": {
+    "en": "Itchy round rash in the groin and waist for a month, a fungal infection made worse by steroid cream. Stop Betnovate; Candid cream morning and night and Forcan 150 once a week for four weeks, Cetzine at night for ten days. Loose cotton clothes, keep the area dry, separate towels, review in four weeks.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Fungal infection",
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Candid",
+      "generic": "clotrimazole",
+      "form": "cream",
+      "dose": null,
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": 28,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Forcan 150",
+      "generic": "fluconazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "weekly",
+      "food": "any",
+      "duration_days": 28,
+      "source_segments": [
+        5,
+        7
+      ]
+    },
+    {
+      "name": "Cetzine",
+      "generic": "cetirizine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 10,
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 28,
+    "reason": "rash review",
+    "source_segments": [
+      9
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Stop Betnovate cream",
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "text": "Wear loose cotton clothes and dry the area well after bathing",
+      "source_segments": [
+        8
+      ]
+    },
+    {
+      "text": "Wash towels separately",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": []
+}

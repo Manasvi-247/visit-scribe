@@ -1,0 +1,13 @@
+# Evening fever, typhoid suspicion
+# noise: fan
+P: Doctor, I have had fever for one week now, it comes every evening, and I have no appetite.
+D: Did you eat outside food recently?
+P: Yes, street food at a wedding about ten days back.
+D: We need to check for typhoid. Get a Widal test and CBC done today.
+D: Meanwhile start Taxim-O two hundred, one tablet once a day. No, make it twice a day, morning and night, after food.
+P: For how many days, doctor?
+D: Fourteen days. Don't stop it in between even if the fever goes.
+D: For fever, Dolo 650, one tablet when the temperature is above one hundred, not more than three in a day.
+P: And my acidity tablet, Pan 40, should I keep taking it?
+D: Yes, continue Pan 40, one tablet before breakfast.
+D: Only boiled water and home food. Show me the reports the day after tomorrow.

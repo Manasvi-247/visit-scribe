@@ -1,0 +1,98 @@
+{
+  "summary": {
+    "en": "BP 160/100 and high cholesterol, with morning headaches. Telma 40 in the morning, Amlong 5 after dinner and Atorva 10 at bedtime. Less salt, walk forty minutes daily, repeat lipid profile and kidney function test and return in one month.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "BP 160/100, high",
+      "source_segments": [
+        0
+      ]
+    },
+    {
+      "text": "High cholesterol",
+      "source_segments": [
+        0
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Telma 40",
+      "generic": "telmisartan",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [
+        2
+      ]
+    },
+    {
+      "name": "Amlong 5",
+      "generic": "amlodipine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "after",
+      "duration_days": null,
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "Atorva 10",
+      "generic": "atorvastatin",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "Lipid profile",
+      "when": "after one month",
+      "source_segments": [
+        8
+      ]
+    },
+    {
+      "name": "Kidney function test",
+      "when": "after one month",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 30,
+    "reason": "BP and cholesterol review with reports",
+    "source_segments": [
+      8
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Less salt, no pickles or papad",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "text": "Walk forty minutes every day",
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "open_questions": [
+    "Duration of Telma 40, Amlong 5 and Atorva 10 not fixed; to be decided after the next reports"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "summary": {
+    "en": "Seventy-year-old woman with weakness, dizziness, tingling in the legs, poor appetite and poor sleep. Becosules every morning after breakfast for a month, CBC and Vitamin B12 tests. Return with reports in a week.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Becosules",
+      "generic": "vitamin B complex",
+      "form": "capsule",
+      "dose": "1 capsule",
+      "frequency_code": "1-0-0",
+      "food": "after",
+      "duration_days": 30,
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "CBC",
+      "when": null,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Vitamin B12",
+      "when": null,
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 7,
+    "reason": "review with reports",
+    "source_segments": [
+      5
+    ]
+  },
+  "instructions": [],
+  "open_questions": []
+}

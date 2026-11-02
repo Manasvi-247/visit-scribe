@@ -1,0 +1,39 @@
+{
+  "summary": {
+    "en": "Child (12 kg) with fever and sore throat since yesterday, given Ascoril at home; told to stop it. Calpol 6 ml when fever is above 100, not more often than every six hours, and Augmentin Duo syrup 4 ml twice daily after food for the full seven days. Review in three days.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Throat infection", "source_segments": [7]}
+  ],
+  "medications": [
+    {
+      "name": "Calpol",
+      "generic": "paracetamol",
+      "form": "syrup",
+      "dose": "6 ml",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [5, 6]
+    },
+    {
+      "name": "Augmentin Duo",
+      "generic": "amoxicillin + clavulanic acid",
+      "form": "syrup",
+      "dose": "4 ml",
+      "frequency_code": "1-0-1",
+      "food": "after",
+      "duration_days": 7,
+      "source_segments": [7, 9]
+    }
+  ],
+  "tests": [],
+  "follow_up": {"in_days": 3, "reason": "fever and throat review", "source_segments": [10]},
+  "instructions": [
+    {"text": "Stop Ascoril", "source_segments": [4]},
+    {"text": "Calpol only when fever is above 100, not more than once in six hours", "source_segments": [6]},
+    {"text": "Give the antibiotic for the full seven days even if fever settles", "source_segments": [9]}
+  ],
+  "open_questions": []
+}

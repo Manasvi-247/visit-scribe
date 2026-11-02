@@ -1,0 +1,9 @@
+# Viral fever
+# noise: quiet
+D: Aao baitho, batao kya problem hai?
+P: Doctor sahab, kal raat se tez bukhar hai, body pain aur kamzori bhi bahut hai.
+D: Bukhar kitna gaya tha?
+P: 101 tak gaya tha, thermometer se check kiya tha.
+D: Viral lag raha hai. Dolo 650 ki ek goli din mein teen baar, khane ke baad, teen din tak.
+D: Paani zyada piyo, nimbu paani bhi, aur ghar pe aaram karo.
+D: Agar teen din mein aaram na mile toh dobara dikhana.

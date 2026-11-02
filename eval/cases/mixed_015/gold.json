@@ -1,0 +1,81 @@
+{
+  "summary": {
+    "en": "Itchy ring-shaped rash near the thigh, a fungal infection. Candid cream twice a day a little beyond the rash for two weeks and Cetzine at night for seven days. Keep the area dry, avoid tight clothes, use a separate towel, follow up in two weeks.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Fungal infection",
+      "source_segments": [
+        1
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Candid",
+      "generic": "clotrimazole",
+      "form": "cream",
+      "dose": null,
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": 14,
+      "source_segments": [
+        2
+      ]
+    },
+    {
+      "name": "Cetzine",
+      "generic": "cetirizine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 7,
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 14,
+    "reason": "rash review",
+    "source_segments": [
+      5
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Apply the cream a little beyond the edge of the rash",
+      "source_segments": [
+        2
+      ]
+    },
+    {
+      "text": "Do not stop the cream midway",
+      "source_segments": [
+        2
+      ]
+    },
+    {
+      "text": "Keep the area dry",
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "text": "Do not wear tight clothes",
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "text": "Use a separate towel",
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "open_questions": []
+}

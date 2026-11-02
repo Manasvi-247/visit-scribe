@@ -1,0 +1,59 @@
+{
+  "summary": {
+    "en": "Fever since last night with headache and weakness, likely viral. Dolo 650 three times a day after food for three days and Limcee once a day for five days. Plenty of fluids and rest, review after three days.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Viral fever",
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Dolo 650",
+      "generic": "paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-1-1",
+      "food": "after",
+      "duration_days": 3,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Limcee",
+      "generic": "vitamin C",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-0",
+      "food": "any",
+      "duration_days": 5,
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 3,
+    "reason": "fever review",
+    "source_segments": [
+      7
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Drink lots of water and coconut water and rest at home",
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "open_questions": [
+    "Limcee: once a day, at what time?"
+  ]
+}

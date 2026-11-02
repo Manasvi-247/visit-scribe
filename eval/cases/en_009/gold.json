@@ -1,0 +1,85 @@
+{
+  "summary": {
+    "en": "Breathlessness at night with wheeze, worse in winter, diagnosed as asthma. Foracort 200 inhaler morning and night, Asthalin inhaler when breathless, and Montair LC at bedtime for a month. Avoid dust and smoke, chest X-ray, review in two weeks.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Asthma",
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Foracort 200",
+      "generic": "formoterol + budesonide",
+      "form": "inhaler",
+      "dose": "2 puffs",
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "Asthalin",
+      "generic": "salbutamol",
+      "form": "inhaler",
+      "dose": "2 puffs",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "name": "Montair LC",
+      "generic": "montelukast + levocetirizine",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 30,
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "Chest X-ray",
+      "when": null,
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 14,
+    "reason": "asthma review",
+    "source_segments": [
+      8
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Rinse mouth with water after using Foracort",
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "text": "Avoid dust and smoke, cover nose in cold wind",
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "open_questions": [
+    "Foracort 200: how long to continue?"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "en": "One-sided headaches four to five times a month with light sensitivity; migraine. Naxdom 500 at the start of pain, at most two a day, and Ciplar 10 every night for a month to prevent attacks. Sleep well, do not skip meals, keep a headache diary, review in a month.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {"text": "Migraine", "source_segments": [1]}
+  ],
+  "medications": [
+    {
+      "name": "Naxdom 500",
+      "generic": "naproxen + domperidone",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [2]
+    },
+    {
+      "name": "Ciplar 10",
+      "generic": "propranolol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "any",
+      "duration_days": 30,
+      "source_segments": [3]
+    }
+  ],
+  "tests": [],
+  "follow_up": {"in_days": 30, "reason": "migraine review", "source_segments": [5]},
+  "instructions": [
+    {"text": "Naxdom 500 not more than two a day", "source_segments": [2]},
+    {"text": "Get enough sleep, do not skip meals, keep a headache diary", "source_segments": [4]}
+  ],
+  "open_questions": []
+}

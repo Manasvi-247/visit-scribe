@@ -1,0 +1,51 @@
+{
+  "summary": {
+    "en": "Fever since last night up to 101 with body pain and weakness, likely viral. Dolo 650 three times a day after food for three days, plenty of water and rest. Return if there is no relief in three days.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Likely viral fever",
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Dolo 650",
+      "generic": "paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-1-1",
+      "food": "after",
+      "duration_days": 3,
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 3,
+    "reason": "if no relief",
+    "source_segments": [
+      6
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Drink plenty of water and lemon water",
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "text": "Rest at home",
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "open_questions": []
+}

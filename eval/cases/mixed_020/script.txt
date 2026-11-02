@@ -1,0 +1,11 @@
+# Vitamin D deficiency
+# noise: fan
+D: Aapka Vitamin D bahut low hai, sirf aath aaya hai.
+P: Isliye shayad haddiyon mein dard aur kamzori rehti hai, doctor.
+D: Haan. Uprise D3 60K ek capsule hafte mein ek baar, har Sunday, khane ke baad doodh ke saath.
+P: Roz nahi lena? Kitne din lena hai?
+D: Nahi nahi, roz bilkul nahi, sirf hafte mein ek. Aath hafte tak.
+P: Doctor, main Becosules aur ek calcium wali tablet bhi le rahi hoon, Shelcal.
+D: Becosules band kar do, abhi zaroorat nahi. Shelcal continue rakho, par roz nahi, ek din chhod ke, ek tablet raat ko khane ke baad.
+D: Roz subah pandrah-bees minute dhoop mein baitho.
+D: Do mahine baad Vitamin D dobara check karke aana.

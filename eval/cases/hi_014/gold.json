@@ -1,0 +1,49 @@
+{
+  "summary": {
+    "en": "70-year-old woman with knee pain, taking Combiflam daily from the chemist; told to stop it. Shelcal 500 twice daily after food for three months, Volini gel twice a day on the knees, Dolo 650 for bad pain at most twice a day. Vitamin D and kidney function tests, review in a month with reports.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Shelcal 500",
+      "generic": "calcium + vitamin D3",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "after",
+      "duration_days": 90,
+      "source_segments": [4, 5]
+    },
+    {
+      "name": "Volini",
+      "generic": "diclofenac",
+      "form": "gel",
+      "dose": null,
+      "frequency_code": "1-0-1",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [6]
+    },
+    {
+      "name": "Dolo 650",
+      "generic": "paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [8]
+    }
+  ],
+  "tests": [
+    {"name": "Vitamin D", "when": null, "source_segments": [9]},
+    {"name": "Kidney function test", "when": null, "source_segments": [9]}
+  ],
+  "follow_up": {"in_days": 30, "reason": "knee pain review with reports", "source_segments": [10]},
+  "instructions": [
+    {"text": "Stop Combiflam", "source_segments": [3]},
+    {"text": "Dolo 650 not more than two a day", "source_segments": [8]}
+  ],
+  "open_questions": ["Volini gel duration was not stated."]
+}

@@ -1,0 +1,9 @@
+# Hypothyroidism
+# noise: quiet
+D: Your TSH report is 7.8, which is high. You have hypothyroidism.
+P: Is that why I feel so tired and I am gaining weight?
+D: Yes, that can be the reason.
+D: Start Thyronorm 50, one tablet every morning on an empty stomach, half an hour before breakfast.
+P: For how long, doctor?
+D: This will be long term. Don't stop it on your own.
+D: Repeat TSH after six weeks and come with the report.

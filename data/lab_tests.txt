@@ -1,0 +1,20 @@
+CBC
+HbA1c
+Fasting blood sugar
+Post-prandial blood sugar
+Lipid profile
+TSH
+Liver function test
+Kidney function test
+Urine routine
+Urine culture
+Vitamin D
+Vitamin B12
+Chest X-ray
+ECG
+Dengue NS1
+Widal
+Ultrasound abdomen
+Ultrasound pelvis
+Obstetric ultrasound
+Pulmonary function test

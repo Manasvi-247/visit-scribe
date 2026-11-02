@@ -1,0 +1,13 @@
+# Asthma flare
+# noise: tv
+D: Saans abhi bhi phool rahi hai kya?
+P: Haan doctor, saans phoolti hai, raat ko khansi aur wheezing hoti hai, neend nahi aati.
+D: Asthalin inhaler, do puff, jab bhi saans phoole tab lena.
+P: Doctor, inhaler ki aadat toh nahi lag jaayegi? Koi side effect toh nahi?
+D: Nahi, koi aadat nahi lagti, aur koi khaas side effect bhi nahi hai.
+D: Montair LC ek goli raat ko sote time, ek mahina, beech mein band mat karna.
+D: Aur Wysolone 10 dena hai. Teen din tak do tablet subah nashte ke baad, phir teen din ek tablet, phir band.
+P: Subah dono tablet ek saath lene hain?
+D: Haan, dono ek saath, nashte ke baad.
+D: Aur ye Ascoril LS jo aap le rahe ho, wo band kar do.
+D: Do hafte baad aana, tab PFT karwayenge.

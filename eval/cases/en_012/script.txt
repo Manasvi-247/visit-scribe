@@ -1,0 +1,11 @@
+# Low back strain
+# noise: quiet
+D: Where exactly is the pain?
+P: Lower back, doctor. It started after I lifted a heavy bucket three days ago.
+D: Does the pain go down your leg? Any numbness?
+P: No, it stays in the back.
+D: It's a muscle strain. Take Combiflam, one tablet after breakfast and one after dinner, for five days.
+D: Pan 40, one tablet in the morning before breakfast, for five days, to protect your stomach.
+D: And apply Volini gel on the back three times a day.
+D: Use a hot water bag for fifteen minutes in the evening. No lifting heavy weights for two weeks.
+D: Come back after one week.

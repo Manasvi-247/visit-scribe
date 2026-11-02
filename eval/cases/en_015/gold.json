@@ -1,0 +1,87 @@
+{
+  "summary": {
+    "en": "Fever of 103 for four days with body pain and pain behind the eyes; dengue to be ruled out. Stop Combiflam, take Dolo 650 three times a day after food for three days. Dengue NS1 and CBC today, at least three litres of fluids a day, return tomorrow with reports or at once if gums bleed or stools turn black.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Dengue to be ruled out",
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Dolo 650",
+      "generic": "paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-1-1",
+      "food": "after",
+      "duration_days": 3,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Electral",
+      "generic": "oral rehydration salts",
+      "form": "powder",
+      "dose": "1 sachet in 1 litre of water",
+      "frequency_code": null,
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "Dengue NS1",
+      "when": "today",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "name": "CBC",
+      "when": "today",
+      "source_segments": [
+        7
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 1,
+    "reason": "review with dengue and CBC reports",
+    "source_segments": [
+      9
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Stop Combiflam",
+      "source_segments": [
+        3,
+        6
+      ]
+    },
+    {
+      "text": "Drink at least three litres of fluids a day",
+      "source_segments": [
+        8
+      ]
+    },
+    {
+      "text": "Come immediately if gums bleed or stools are black",
+      "source_segments": [
+        9
+      ]
+    }
+  ],
+  "open_questions": [
+    "Electral: how often and for how many days?"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "summary": {
+    "en": "Both eyes red and sticky for two days, conjunctivitis. Moxicip eye drops four times a day for five days. Wash hands, do not share towels, use dark glasses outside, review after five days.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Conjunctivitis",
+      "source_segments": [
+        2
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Moxicip",
+      "generic": "moxifloxacin",
+      "form": "eye drops",
+      "dose": "1 drop",
+      "frequency_code": "1-1-1-1",
+      "food": "any",
+      "duration_days": 5,
+      "source_segments": [
+        3
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": {
+    "in_days": 5,
+    "reason": "eye review",
+    "source_segments": [
+      6
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Wash hands often, do not share towels, do not touch the eyes",
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "text": "Use dark glasses when going out",
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "open_questions": []
+}

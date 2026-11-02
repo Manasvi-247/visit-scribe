@@ -1,0 +1,11 @@
+# Asthma
+# noise: quiet
+P: Doctor, I get breathless at night and there is a whistling sound in my chest.
+D: Is it worse when the weather changes, or near dust?
+P: Yes, especially in winter.
+D: This is asthma. I am starting Foracort 200 inhaler, two puffs in the morning and two puffs at night.
+D: Rinse your mouth with water after using it.
+D: Keep Asthalin inhaler with you, two puffs only when you feel breathless.
+D: Montair LC, one tablet at bedtime, for one month.
+D: Avoid dust and smoke, and cover your nose in cold wind.
+D: Get a chest X-ray done, and come back in two weeks.

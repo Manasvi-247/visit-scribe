@@ -1,0 +1,65 @@
+{
+  "summary": {
+    "en": "Vitamin D is 12, low, which can cause the leg aches. Uprise D3 60K once a week for eight weeks and Shelcal 500 after dinner for two months. Twenty minutes of morning sun daily, repeat vitamin D and return in two months.",
+    "hi": ""
+  },
+  "diagnosis": [
+    {
+      "text": "Low vitamin D (12)",
+      "source_segments": [
+        0
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "Uprise D3 60K",
+      "generic": "cholecalciferol",
+      "form": "capsule",
+      "dose": "1 capsule",
+      "frequency_code": "weekly",
+      "food": "any",
+      "duration_days": 56,
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "Shelcal 500",
+      "generic": "calcium + vitamin D3",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "0-0-1",
+      "food": "after",
+      "duration_days": 60,
+      "source_segments": [
+        4
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "Vitamin D",
+      "when": "after two months",
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "follow_up": {
+    "in_days": 60,
+    "reason": "review with vitamin D report",
+    "source_segments": [
+      6
+    ]
+  },
+  "instructions": [
+    {
+      "text": "Sit in the morning sun for twenty minutes daily",
+      "source_segments": [
+        5
+      ]
+    }
+  ],
+  "open_questions": []
+}

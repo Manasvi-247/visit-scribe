@@ -1,0 +1,76 @@
+{
+  "summary": {
+    "en": "Loose motions about eight times since last night with two vomits and slight fever, no blood. Electral through the day, Ondem 4 morning and evening for two days, Metrogyl 400 three times a day for five days, Cyclopam for cramps. Light home food, return at once if not better in two days or if dizzy.",
+    "hi": ""
+  },
+  "diagnosis": [],
+  "medications": [
+    {
+      "name": "Electral",
+      "generic": "oral rehydration salts",
+      "form": "powder",
+      "dose": "1 packet in 1 litre of water",
+      "frequency_code": null,
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        3
+      ]
+    },
+    {
+      "name": "Ondem 4",
+      "generic": "ondansetron",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-0-1",
+      "food": "before",
+      "duration_days": 2,
+      "source_segments": [
+        4
+      ]
+    },
+    {
+      "name": "Metrogyl 400",
+      "generic": "metronidazole",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "1-1-1",
+      "food": "after",
+      "duration_days": 5,
+      "source_segments": [
+        5
+      ]
+    },
+    {
+      "name": "Cyclopam",
+      "generic": "dicyclomine + paracetamol",
+      "form": "tablet",
+      "dose": "1 tablet",
+      "frequency_code": "SOS",
+      "food": "any",
+      "duration_days": null,
+      "source_segments": [
+        6
+      ]
+    }
+  ],
+  "tests": [],
+  "follow_up": null,
+  "instructions": [
+    {
+      "text": "Eat light food: curd rice, khichdi, banana; no outside food",
+      "source_segments": [
+        7
+      ]
+    },
+    {
+      "text": "Come back immediately if motions do not reduce in two days or if dizzy",
+      "source_segments": [
+        8
+      ]
+    }
+  ],
+  "open_questions": [
+    "Electral: how many packets a day and for how many days?"
+  ]
+}

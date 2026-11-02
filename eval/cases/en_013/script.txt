@@ -1,0 +1,11 @@
+# Urine infection
+# noise: fan
+P: Doctor, there is burning while passing urine and I have to go again and again.
+D: Since when? Any fever or back pain?
+P: Two days. A little fever at night, no back pain.
+D: Take Ciplox 500, one tablet morning and night after food, for five days.
+D: Citralka syrup, two teaspoons in a glass of water three times a day, for five days.
+D: For fever, Crocin, one tablet when the temperature is above 100.
+D: Get urine routine and urine culture done today itself, before starting the antibiotic.
+D: Drink at least three litres of water a day and don't hold urine.
+D: Show me the reports after three days.
